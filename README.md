@@ -1,6 +1,6 @@
 ## Synopsis
 
-An addon for ExpressionEngine that inserts the publishing date into the URL title ensuring there are no duplicates.
+An addon for ExpressionEngine that inserts the publishing date into the URL title of new channel entries ensuring there are no duplicates.
 
 ## ExpressionEngine Compatibility
 
@@ -12,7 +12,7 @@ Installing the addon is simply a matter of:
 
 - Placing the folder and its contents into the `system > user > addons` folder
 - Navigating to the addon management screen and installing the addon.
-- Updating the addon's settings from the addon management screen to select the channel to modify.
+- Updating the addon's settings from the addon management screen to select the channel(s) to modify.
 
 ## License
 
