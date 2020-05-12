@@ -2,9 +2,9 @@
 
 An addon for ExpressionEngine that inserts the publishing date into the URL title ensuring there are no duplicates.
 
-## Requirements
+## ExpressionEngine Compatibility
 
-- ExpressionEngine 3+
+- ExpressionEngine 3, ExpressionEngine 4, ExpressionEngine 5
 
 ## Installation
 
